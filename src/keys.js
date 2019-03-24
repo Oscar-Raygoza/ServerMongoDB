@@ -1,5 +1,5 @@
 module.exports = {
     database: {
-        URI: 'mongodb://localhost/work_cloud_db'
+        URI: 'mongodb://localhost/name_db'
     }
 }

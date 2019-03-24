@@ -5,7 +5,7 @@ mongoose.connect(database.URI, {
     useNewUrlParser: true
 })
     .then( db =>{
-        console.log('Work Cloud DB Connect');
+        console.log('DB Connect');
     })
     .catch(err => {
         console.log(err)
